@@ -55,8 +55,10 @@ function BehaviorTreeGraph(props: Props) {
         }
 
         const tasks = fromTaskJSON(props.Instance.TaskJSON);
-        if(tasks == null)
+        if(tasks == null) {
+            setElements([]);
             return;
+        }
 
         let entry = toFlowElement(tasks.EntryTask);
         entry = entry.concat(toFlowElement(tasks.RootTask));
