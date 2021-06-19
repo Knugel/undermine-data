@@ -15,6 +15,14 @@ function Extension(props: Props) {
         return '$Ref' in obj;
     }
 
+    const isEmpty = (obj: any): boolean => {
+        if(obj == null)
+            return true;
+        if(typeof obj !== 'object')
+            return false;
+        return Object.values(obj).every(x => !x);
+    }
+
     return (
         <Fragment>
             <Table>
@@ -24,7 +32,7 @@ function Extension(props: Props) {
                         return (
                             <tr key={entry.key}>
                                 {
-                                    (typeof entry.value === 'object' && entry.value != null )
+                                    (typeof entry.value === 'object' && entry.value != null && !isEmpty(entry.value) )
                                         ? <Fragment>
                                             {
                                                 isReference(entry.value) ?
@@ -51,7 +59,7 @@ function Extension(props: Props) {
                                         : <Fragment>
                                             <td>{entry.key}</td>
                                             <td>
-                                                <span>{ entry.value?.toString() }</span>
+                                                <span>{ (!isEmpty(entry.value)) ? entry.value?.toString() : "" }</span>
                                             </td>
                                         </Fragment>
                                 }

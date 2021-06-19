@@ -67,6 +67,9 @@ function BehaviorTreeGraph(props: Props) {
     const onNodeClick = (event: ReactMouseEvent, element: Node | Edge) => {
         if('data' in element) {
             const task = element.data.task;
+            if(!task.Comment)
+                delete task.Comment;
+
             delete task.Children;
             delete task.NodeData;
             setSelected(task);

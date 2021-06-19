@@ -32,6 +32,5 @@ export interface Task {
 
 export interface NodeData {
     Offset: string
-    X: number
-    Y: number
+    Comment: string
 }

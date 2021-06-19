@@ -23,7 +23,7 @@ export function toFlowElement(task: Task, parent?: Task): FlowElement[] {
         id: task.ID.toString(),
         type: task.Children ? undefined : 'output',
         position: { x: parentOffset.x + offset.x, y: parentOffset.y + offset.y },
-        data: { label: task.Name, task: { ...task } }
+        data: { label: task.Name, task: { Comment: task.NodeData.Comment, ...task } }
     };
 
     if(task.Type === "BehaviorDesigner.Runtime.Tasks.EntryTask")
