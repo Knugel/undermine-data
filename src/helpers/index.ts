@@ -71,11 +71,13 @@ const types = [
     "SharedDataObject",
     "SharedEntityList",
     "SharedString",
+    "SharedVariable",
     "Boolean",
     "String",
     "Int32",
     "Int64",
     "Single",
+    "EntityList",
     "Entity",
     "Vector2",
     "Vector3",
@@ -89,13 +91,18 @@ export function beautify(value: string): string {
     let index = value.indexOf("m_");
     if(index > -1) {
         value = value.substr(index + 2);
-        value = value[0].toUpperCase() + value.substr(1);
     }
+
     const type = types.find(x => value.startsWith(x));
     if(type) {
         value = value.substr(type.length);
-        value = value[0].toUpperCase() + value.substr(1);
     }
+
+    if(value.includes("[]")) {
+        value = value.substr(value.indexOf("[]") + 2);
+    }
+
+    value = value[0].toUpperCase() + value.substr(1);
 
     return value;
 }
