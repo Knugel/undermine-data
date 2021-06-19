@@ -13,7 +13,7 @@ import DataObject from './components/DataObject/DataObject';
 function App() {
   return (
       <Provider>
-          <Router>
+          <Router basename="/undermine-data">
               <Container>
                   <Navbar bg="dark" variant="dark" expand="lg">
                       <Navbar.Brand>Undermine Data</Navbar.Brand>
