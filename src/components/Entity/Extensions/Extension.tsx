@@ -1,7 +1,7 @@
 import { Reference, ThorExt } from '../../../interfaces';
 import { beautify, getEntries } from '../../../helpers';
 import { Fragment } from 'react';
-import { Accordion, Table, Card } from 'react-bootstrap';
+import { Accordion, Table, Card, Form } from 'react-bootstrap';
 import ReferenceLink from '../ReferenceLink';
 
 type Props = {
@@ -21,6 +21,14 @@ function Extension(props: Props) {
         if(typeof obj !== 'object')
             return false;
         return Object.values(obj).every(x => !x);
+    }
+
+    const renderValue = (value: any) =>{
+        if(isEmpty(value))
+            return "";
+        if(typeof value === 'boolean')
+            return (<Form.Check disabled checked={value} type="checkbox"/>)
+        return (<span>{value.toString()}</span>)
     }
 
     return (
@@ -59,7 +67,7 @@ function Extension(props: Props) {
                                         : <Fragment>
                                             <td>{entry.key}</td>
                                             <td>
-                                                <span>{ (!isEmpty(entry.value)) ? entry.value?.toString() : "" }</span>
+                                                { renderValue(entry.value) }
                                             </td>
                                         </Fragment>
                                 }
