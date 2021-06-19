@@ -10,9 +10,11 @@ function Provider(props: PropsWithChildren<any>) {
         async function fetch() {
             if(store.entities.length > 0)
                 return;
-            const behaviors = await get<Behavior[]>('/undermine-data/data/Behaviors.json');
-            const entities = await get<EntityExt[]>('/undermine-data/data/Entities.json');
-            const dataObjects = await get<DataObject[]>('/undermine-data/data/DataObjects.json');
+
+            const url = process.env.PUBLIC_URL;
+            const behaviors = await get<Behavior[]>(url + '/data/Behaviors.json');
+            const entities = await get<EntityExt[]>( url + '/data/Entities.json');
+            const dataObjects = await get<DataObject[]>(url + '/data/DataObjects.json');
             setStore({ behaviors, entities, dataObjects });
         }
         fetch();

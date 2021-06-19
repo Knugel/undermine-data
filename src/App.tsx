@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, NavLink } from "react-router-dom";
 
 import './App.css';
 import EntityListing from './components/EntityListing/EntityListing';
@@ -13,7 +13,7 @@ import DataObject from './components/DataObject/DataObject';
 function App() {
   return (
       <Provider>
-          <Router basename="/undermine-data">
+          <Router basename='/'>
               <Container>
                   <Navbar bg="dark" variant="dark" expand="lg">
                       <Navbar.Brand>Undermine Data</Navbar.Brand>
