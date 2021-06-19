@@ -10,9 +10,9 @@ function Provider(props: PropsWithChildren<any>) {
         async function fetch() {
             if(store.entities.length > 0)
                 return;
-            const behaviors = await get<Behavior[]>('/data/Behaviors.json');
-            const entities = await get<EntityExt[]>('/data/Entities.json');
-            const dataObjects = await get<DataObject[]>('/data/DataObjects.json');
+            const behaviors = await get<Behavior[]>('/undermine-data/data/Behaviors.json');
+            const entities = await get<EntityExt[]>('/undermine-data/data/Entities.json');
+            const dataObjects = await get<DataObject[]>('/undermine-data/data/DataObjects.json');
             setStore({ behaviors, entities, dataObjects });
         }
         fetch();
