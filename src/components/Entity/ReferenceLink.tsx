@@ -12,12 +12,14 @@ function ReferenceLink(props: Props) {
     const isGuid = !Number.isInteger(props.$Ref);
     const isEntity = context.entities.some(x => x.Guid === props.$Ref);
 
-    let element = null;
+    let element;
     if(isEntity) {
         element = context.entities.find(x => x.Guid === props.$Ref);
     } else {
         element = context.dataObjects.find(x => x.Guid === props.$Ref);
     }
+    if(!isGuid)
+        element = context.behaviors.find(x => x.ID === props.$Ref);
 
     return (
         <Fragment>
@@ -28,7 +30,7 @@ function ReferenceLink(props: Props) {
                             isEntity ? <Link to={`/entities/${props.$Ref}`}>{element?.Name}</Link> : <Link to={`/data-objects/${props.$Ref}`}>{element?.Name}</Link>
                         }
                     </Fragment>
-                    : <Link to={`/behaviors/${props.$Ref}`}>{props.$Ref}</Link>
+                    : <Link to={`/behaviors/${props.$Ref}`}>{element?.Name}</Link>
             }
         </Fragment>
     )
