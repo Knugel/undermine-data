@@ -22,6 +22,7 @@ function EntityListing() {
                 <tr>
                     <th>Name</th>
                     <th>Guid</th>
+                    <th/>
                 </tr>
                 </thead>
                 <tbody>

@@ -61,11 +61,41 @@ export function getEntries<T>(entity: T | null): { key: string, value: any }[] {
     return Object.keys(entity).filter(x => !x.endsWith("Ext")).map(x => { return { key: x, value: (entity as any)[x] } });
 }
 
+const types = [
+    "SharedInt",
+    "SharedBool",
+    "SharedFloat",
+    "SharedEntity",
+    "SharedVector2",
+    "SharedVector3",
+    "SharedDataObject",
+    "SharedEntityList",
+    "SharedString",
+    "Boolean",
+    "String",
+    "Int32",
+    "Int64",
+    "Single",
+    "Entity",
+    "Vector2",
+    "Vector3",
+    "List",
+    "DataObject",
+    "Double",
+    "AbortType"
+]
+
 export function beautify(value: string): string {
-    const index = value.indexOf("m_");
+    let index = value.indexOf("m_");
     if(index > -1) {
         value = value.substr(index + 2);
         value = value[0].toUpperCase() + value.substr(1);
     }
+    const type = types.find(x => value.startsWith(x));
+    if(type) {
+        value = value.substr(type.length);
+        value = value[0].toUpperCase() + value.substr(1);
+    }
+
     return value;
 }

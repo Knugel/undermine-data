@@ -14,20 +14,32 @@ function Extension(props: Props) {
             return false;
         return '$Ref' in obj;
     }
-
     const isEmpty = (obj: any): boolean => {
         if(obj == null)
             return true;
         if(typeof obj !== 'object')
             return false;
-        return Object.values(obj).every(x => !x);
+        const values = Object.values(obj);
+
+        if(values.length === 1 && Object.values(values[0]).length === 1) {
+            return true;
+        }
+
+        return values.every(x => !x);
     }
 
-    const renderValue = (value: any) =>{
-        if(isEmpty(value))
-            return "";
+    const renderValue = (value: any) => {
+        if(value === null || value === undefined)
+            return null;
         if(typeof value === 'boolean')
-            return (<Form.Check disabled checked={value} type="checkbox"/>)
+            return <Form.Check disabled checked={value} type="checkbox"/>
+        if(isReference(value)) {
+            return <ReferenceLink $Ref={ value.$Ref }/>;
+        }
+        if(typeof value === 'object') {
+            return renderValue(Object.values(value)[0]);
+        }
+
         return (<span>{value.toString()}</span>)
     }
 
@@ -65,7 +77,7 @@ function Extension(props: Props) {
                                             }
                                         </Fragment>
                                         : <Fragment>
-                                            <td>{entry.key}</td>
+                                            <td>{beautify(entry.key)}</td>
                                             <td>
                                                 { renderValue(entry.value) }
                                             </td>
