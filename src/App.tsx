@@ -1,25 +1,54 @@
 import React from 'react';
-import logo from './logo.svg';
+import { BrowserRouter as Router, Switch, Route, NavLink } from "react-router-dom";
+
 import './App.css';
+import EntityListing from './components/EntityListing/EntityListing';
+import Provider from './store/Provider';
+import Entity from './components/Entity/Entity';
+import { Container, Navbar, Nav } from 'react-bootstrap';
+import BehaviorTree from './components/BehaviorTree/BehaviorTree';
+import DataObjectListing from './components/DataObjectListing/DataObjectListing';
+import DataObject from './components/DataObject/DataObject';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Provider>
+          <Router>
+              <Container>
+                  <Navbar bg="dark" variant="dark" expand="lg">
+                      <Navbar.Brand>Undermine Data</Navbar.Brand>
+                      <Navbar.Collapse id="basic-navbar-nav">
+                          <Nav className="mr-auto">
+                              <Nav.Link as={ NavLink } to="/entities">Entities</Nav.Link>
+                              <Nav.Link as={ NavLink } to="/data-objects">Data Objects</Nav.Link>
+                          </Nav>
+                      </Navbar.Collapse>
+                  </Navbar>
+              </Container>
+              <Container style={{ padding: 10 }}>
+                  <Switch>
+                      <Route path='/entities' exact>
+                          <EntityListing/>
+                      </Route>
+                      <Route path={'/entities/:guid'} exact>
+                          <Entity />
+                      </Route>
+                      <Route path={'/entities/:guid/:name'}>
+                          <Entity />
+                      </Route>
+                      <Route path='/data-objects' exact>
+                          <DataObjectListing/>
+                      </Route>
+                      <Route path={'/data-objects/:guid'} exact>
+                          <DataObject />
+                      </Route>
+                      <Route path={'/behaviors/:id'}>
+                          <BehaviorTree />
+                      </Route>
+                  </Switch>
+              </Container>
+          </Router>
+      </Provider>
   );
 }
 
