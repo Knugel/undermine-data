@@ -55,6 +55,9 @@ function BehaviorTreeGraph(props: Props) {
 
     useEffect(() => {
         const tasks = fromTaskJSON(props.Instance.TaskJSON);
+        if(tasks == null)
+            return;
+
         let entry = toFlowElement(tasks.EntryTask);
         entry = entry.concat(toFlowElement(tasks.RootTask));
         entry.push({ id: '0-1', source: '0', target: '1' });

@@ -10,6 +10,8 @@ export async function get<T>(url: string) {
 }
 
 export function fromTaskJSON(json: string): BehaviorTasks {
+    if(!json)
+        return null;
     return JSON.parse(json) as BehaviorTasks
 }
 
