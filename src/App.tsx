@@ -1,5 +1,5 @@
 import React from 'react';
-import { HashRouter as Router, Switch, Route, NavLink } from "react-router-dom";
+import { HashRouter as Router, Switch, Route, NavLink, Redirect } from "react-router-dom";
 
 import './App.css';
 import EntityListing from './components/EntityListing/EntityListing';
@@ -45,6 +45,7 @@ function App() {
                       <Route path={'/behaviors/:id'}>
                           <BehaviorTree />
                       </Route>
+                      <Route render={() => <Redirect to="/entities" />} />
                   </Switch>
               </Container>
           </Router>
