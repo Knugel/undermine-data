@@ -28,7 +28,7 @@ function EntityListing() {
                 <tbody>
                 {
                     context.entities
-                        .filter(x => x.Name.toLowerCase().includes(search.toLowerCase()))
+                        .filter(x => x.Name.toLowerCase().includes(search.toLowerCase()) || x.Guid.includes(search))
                         .sort((a, b) => a.Name.localeCompare(b.Name))
                         .map(entity => {
                         return (
