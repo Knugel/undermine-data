@@ -42,7 +42,7 @@ function Extension(props: Props) {
             return renderValue(Object.values(value)[0]);
         }
 
-        return (<span>{value.toString()}</span>)
+        return value.toString();
     }
 
     return (
@@ -79,7 +79,7 @@ function Extension(props: Props) {
                                                     </td>
                                             }
                                         </Fragment>
-                                        : !isEmpty(entry.value) ? <Fragment>
+                                        : !isEmpty(entry.value) || renderValue(entry.value) ? <Fragment>
                                             <td>{beautify(entry.key)}</td>
                                             <td>
                                                 { renderValue(entry.value) }
