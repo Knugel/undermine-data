@@ -20,9 +20,9 @@ function EntityListing() {
             <Table striped bordered hover>
                 <thead>
                 <tr>
-                    <th>Name</th>
-                    <th>Guid</th>
-                    <th/>
+                    <th style={{ width: '40%' }}>Name</th>
+                    <th style={{ width: '40%' }}>Guid</th>
+                    <th style={{ width: '10%' }}/>
                 </tr>
                 </thead>
                 <tbody>
@@ -33,9 +33,9 @@ function EntityListing() {
                         .map(entity => {
                         return (
                             <tr key={ entity.Guid + entity.Name }>
-                                <td>{ entity.Name }</td>
-                                <td>{ entity.Guid }</td>
-                                <td style={{ textAlign: 'center' }}>
+                                <td style={{ width: '40%' }}>{ entity.Name }</td>
+                                <td style={{ width: '40%' }}>{ entity.Guid }</td>
+                                <td style={{ textAlign: 'center', width: '10%' }}>
                                     <Link to={ `${ match.path }/${ entity.Guid }/${ entity.Name }` }>{ "=>" }</Link>
                                 </td>
                             </tr>

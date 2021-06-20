@@ -25,7 +25,7 @@ function App() {
                       </Navbar.Collapse>
                   </Navbar>
               </Container>
-              <Container style={{ padding: 10 }}>
+              <Container style={{ padding: 10, paddingLeft: 'calc(100vw - 100%)' }}>
                   <Switch>
                       <Route path='/entities' exact>
                           <EntityListing/>
