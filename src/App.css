@@ -2,3 +2,13 @@
     padding-left: 16px;
     border-radius: 10px;
 }
+
+.accordion .card-header {
+    cursor: pointer;
+}
+
+.card-header svg {
+    float: right;
+    margin-top: 5px;
+    color: #009670;
+}

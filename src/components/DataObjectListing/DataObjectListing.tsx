@@ -2,6 +2,8 @@ import { Link, useRouteMatch } from "react-router-dom";
 import Context from "../../store/Context";
 import { FormEvent, Fragment, useContext, useState } from 'react';
 import { Form, Table } from 'react-bootstrap';
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons/faArrowRight';
 
 function DataObjectListing() {
     let match = useRouteMatch();
@@ -36,7 +38,7 @@ function DataObjectListing() {
                                 <td style={{ width: '40%' }}>{ entity.Name }</td>
                                 <td style={{ width: '40%' }}>{ entity.Guid }</td>
                                 <td style={{ width: '10%', textAlign: 'center' }}>
-                                    <Link to={ `${ match.path }/${ entity.Guid }` }>{ "=>" }</Link>
+                                    <Link to={ `${ match.path }/${ entity.Guid }` }><FontAwesomeIcon icon={faArrowRight} /></Link>
                                 </td>
                             </tr>
                         )

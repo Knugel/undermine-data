@@ -3,6 +3,8 @@ import { beautify, getEntries } from '../../../helpers';
 import { Fragment } from 'react';
 import { Accordion, Table, Card, Form } from 'react-bootstrap';
 import ReferenceLink from '../ReferenceLink';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faArrowDown } from '@fortawesome/free-solid-svg-icons/faArrowDown';
 
 type Props = {
     Instance: ThorExt | null
@@ -64,7 +66,8 @@ function Extension(props: Props) {
                                                         <Accordion>
                                                             <Card>
                                                                 <Accordion.Toggle as={Card.Header} eventKey={entry.key}>
-                                                                    { beautify(entry.key) }
+                                                                    <span>{ beautify(entry.key) }</span>
+                                                                    <FontAwesomeIcon icon={faArrowDown} />
                                                                 </Accordion.Toggle>
                                                                 <Accordion.Collapse eventKey={entry.key}>
                                                                     <Card.Body>
@@ -76,12 +79,12 @@ function Extension(props: Props) {
                                                     </td>
                                             }
                                         </Fragment>
-                                        : <Fragment>
+                                        : !isEmpty(entry.value) ? <Fragment>
                                             <td>{beautify(entry.key)}</td>
                                             <td>
                                                 { renderValue(entry.value) }
                                             </td>
-                                        </Fragment>
+                                        </Fragment> : null
                                 }
                             </tr>
                         )

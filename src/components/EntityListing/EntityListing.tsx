@@ -2,6 +2,8 @@ import { Link, useRouteMatch } from "react-router-dom";
 import Context from "../../store/Context";
 import { FormEvent, Fragment, useContext, useState } from 'react';
 import { Form, Table } from 'react-bootstrap';
+import { faArrowRight } from '@fortawesome/free-solid-svg-icons/faArrowRight';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 
 function EntityListing() {
     let match = useRouteMatch();
@@ -36,7 +38,7 @@ function EntityListing() {
                                 <td style={{ width: '40%' }}>{ entity.Name }</td>
                                 <td style={{ width: '40%' }}>{ entity.Guid }</td>
                                 <td style={{ textAlign: 'center', width: '10%' }}>
-                                    <Link to={ `${ match.path }/${ entity.Guid }/${ entity.Name }` }>{ "=>" }</Link>
+                                    <Link to={ `${ match.path }/${ entity.Guid }/${ entity.Name }` }><FontAwesomeIcon icon={faArrowRight} /></Link>
                                 </td>
                             </tr>
                         )
