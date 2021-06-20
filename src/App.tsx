@@ -16,7 +16,7 @@ function App() {
           <Router basename='/'>
               <Container>
                   <Navbar bg="dark" variant="dark" expand="lg">
-                      <Navbar.Brand>Undermine Data</Navbar.Brand>
+                      <Navbar.Brand>UnderMine Data</Navbar.Brand>
                       <Navbar.Collapse id="basic-navbar-nav">
                           <Nav className="mr-auto">
                               <Nav.Link as={ NavLink } to="/entities">Entities</Nav.Link>
