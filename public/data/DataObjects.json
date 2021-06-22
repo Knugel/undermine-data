@@ -25,7 +25,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32210
+      "$Ref": 32220
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -80,7 +80,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26300
+      "$Ref": 26316
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -131,7 +131,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31928
+      "$Ref": 31938
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -198,7 +198,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32410
+      "$Ref": 32420
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -248,7 +248,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32336
+      "$Ref": 32346
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -314,7 +314,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32024
+      "$Ref": 32034
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -369,7 +369,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26788
+      "$Ref": 26804
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -435,7 +435,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26568
+      "$Ref": 26584
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -624,10 +624,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32628
+      "$Ref": 32638
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -689,7 +689,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 22662
+      "$Ref": 22678
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -817,10 +817,10 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32700
+      "$Ref": 32710
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32702
+      "$Ref": 32712
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -885,7 +885,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26274
+      "$Ref": 26290
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -949,7 +949,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26684
+      "$Ref": 26700
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1059,7 +1059,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26748
+      "$Ref": 26764
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1146,7 +1146,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26254
+      "$Ref": 26270
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1210,7 +1210,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26780
+      "$Ref": 26796
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1274,7 +1274,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23944
+          "$Ref": 23960
         }
       ]
     },
@@ -1352,7 +1352,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26604
+      "$Ref": 26620
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1418,7 +1418,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26302
+      "$Ref": 26318
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1566,7 +1566,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26714
+      "$Ref": 26730
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1632,7 +1632,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32022
+      "$Ref": 32032
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1690,7 +1690,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23940
+          "$Ref": 23956
         }
       ]
     },
@@ -1757,7 +1757,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26688
+      "$Ref": 26704
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1874,7 +1874,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32306
+      "$Ref": 32316
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -1951,10 +1951,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32688
+      "$Ref": 32698
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2019,7 +2019,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26316
+      "$Ref": 26332
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2091,7 +2091,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26708
+      "$Ref": 26724
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2168,10 +2168,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32578
+      "$Ref": 32588
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2221,7 +2221,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32334
+      "$Ref": 32344
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -2357,10 +2357,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32684
+      "$Ref": 32694
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2417,7 +2417,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26380
+      "$Ref": 26396
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2468,7 +2468,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32252
+      "$Ref": 32262
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2523,7 +2523,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26758
+      "$Ref": 26774
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2659,7 +2659,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32716
+      "$Ref": 32726
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2778,10 +2778,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32618
+      "$Ref": 32628
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -2835,7 +2835,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26258
+      "$Ref": 26274
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3105,7 +3105,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26304
+      "$Ref": 26320
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3215,7 +3215,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32454
+      "$Ref": 32464
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3265,7 +3265,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32274
+      "$Ref": 32284
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3316,7 +3316,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31938
+      "$Ref": 31948
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -3371,7 +3371,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 45998
+      "$Ref": 46012
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3422,7 +3422,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32234
+      "$Ref": 32244
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3626,7 +3626,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31988
+      "$Ref": 31998
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -3677,7 +3677,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32328
+      "$Ref": 32338
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -3739,7 +3739,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32276
+      "$Ref": 32286
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3846,7 +3846,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26282
+      "$Ref": 26298
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -3912,7 +3912,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26356
+      "$Ref": 26372
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -4006,10 +4006,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32608
+      "$Ref": 32618
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -4110,13 +4110,6 @@
     "Guid": "16c29bd069994da5a5df1f1f97c495b5"
   },
   {
-    "Name": "Bomb Resource",
-    "Guid": "16c29bd069994da5a5df1f1f97c495b5",
-    "NameNegative": "",
-    "Type": "Resource",
-    "AllowNegativeModifiers": false
-  },
-  {
     "Name": "MidasTouchPotion",
     "Hint": "Recipe, Potion, Item",
     "Slot": "potion",
@@ -4157,7 +4150,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26330
+      "$Ref": 26346
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -4225,7 +4218,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23936
+          "$Ref": 23952
         }
       ]
     },
@@ -4288,7 +4281,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23936
+          "$Ref": 23952
         }
       ]
     },
@@ -4366,7 +4359,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26598
+      "$Ref": 26614
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -4426,7 +4419,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32316
+      "$Ref": 32326
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -4550,7 +4543,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32044
+      "$Ref": 32054
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -4612,7 +4605,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32204
+      "$Ref": 32214
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -4679,7 +4672,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32472
+      "$Ref": 32482
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -4872,7 +4865,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26690
+      "$Ref": 26706
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -4938,7 +4931,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32004
+      "$Ref": 32014
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5017,7 +5010,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23940
+          "$Ref": 23956
         }
       ]
     },
@@ -5080,7 +5073,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32314
+      "$Ref": 32324
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -5157,10 +5150,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32646
+      "$Ref": 32656
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5210,7 +5203,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 47984
+      "$Ref": 48000
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -5265,7 +5258,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26280
+      "$Ref": 26296
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5331,7 +5324,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26364
+      "$Ref": 26380
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -5422,7 +5415,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26782
+      "$Ref": 26798
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5477,7 +5470,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31968
+      "$Ref": 31978
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5539,7 +5532,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32260
+      "$Ref": 32270
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5590,7 +5583,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32188
+      "$Ref": 32198
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5645,7 +5638,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26248
+      "$Ref": 26264
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5712,7 +5705,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32416
+      "$Ref": 32426
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5786,7 +5779,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26336
+      "$Ref": 26352
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5927,7 +5920,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31998
+      "$Ref": 32008
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -5978,7 +5971,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32226
+      "$Ref": 32236
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6055,7 +6048,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32714
+      "$Ref": 32724
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6131,10 +6124,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32576
+      "$Ref": 32586
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6243,7 +6236,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26716
+      "$Ref": 26732
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6298,7 +6291,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26712
+      "$Ref": 26728
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6370,7 +6363,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26652
+      "$Ref": 26668
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6436,7 +6429,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6647,7 +6640,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6712,7 +6705,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 22660
+      "$Ref": 22676
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": true,
@@ -6788,7 +6781,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26692
+      "$Ref": 26708
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -6996,7 +6989,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26590
+      "$Ref": 26606
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7060,7 +7053,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26746
+      "$Ref": 26762
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7115,7 +7108,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26734
+      "$Ref": 26750
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7181,7 +7174,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26522
+      "$Ref": 26538
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7366,12 +7359,32 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26278
+      "$Ref": 26294
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
     "UserData": 0,
-    "DropRequirements": [],
+    "DropRequirements": [
+      {
+        "Type": "Upgrade",
+        "Operation": "Or",
+        "Key": "whip_enabled",
+        "Value": 0.0,
+        "Comparison": "==",
+        "StringData": ""
+      },
+      {
+        "Type": "DropCount",
+        "Operation": "And",
+        "Key": "",
+        "Value": 0.0,
+        "Comparison": "==",
+        "StringData": "",
+        "EntityData": {
+          "$Ref": "27497c3cdd91494ba066eb45ee59d528"
+        }
+      }
+    ],
     "DiscoverRequirements": [
       {
         "Type": "Upgrade",
@@ -7438,7 +7451,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26710
+      "$Ref": 26726
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7504,7 +7517,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32716
+      "$Ref": 32726
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7569,7 +7582,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26290
+      "$Ref": 26306
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -7656,7 +7669,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26374
+      "$Ref": 26390
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7741,7 +7754,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26318
+      "$Ref": 26334
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7808,7 +7821,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32450
+      "$Ref": 32460
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7916,7 +7929,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32718
+      "$Ref": 32728
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -7970,7 +7983,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26798
+      "$Ref": 26814
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8032,7 +8045,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32256
+      "$Ref": 32266
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8087,7 +8100,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26702
+      "$Ref": 26718
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8142,7 +8155,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27834
+      "$Ref": 27850
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8618,7 +8631,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27936
+      "$Ref": 27952
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8755,10 +8768,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32582
+      "$Ref": 32592
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8908,7 +8921,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26358
+      "$Ref": 26374
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -8980,7 +8993,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27836
+      "$Ref": 27852
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9047,7 +9060,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32414
+      "$Ref": 32424
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9110,7 +9123,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26776
+      "$Ref": 26792
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9168,7 +9181,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32350
+      "$Ref": 32360
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9244,7 +9257,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31978
+      "$Ref": 31988
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9314,7 +9327,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23936
+          "$Ref": 23952
         }
       ]
     },
@@ -9381,7 +9394,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26320
+      "$Ref": 26336
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9447,7 +9460,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26612
+      "$Ref": 26628
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9523,7 +9536,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32458
+      "$Ref": 32468
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9577,7 +9590,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26792
+      "$Ref": 26808
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9639,7 +9652,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32208
+      "$Ref": 32218
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9705,7 +9718,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26644
+      "$Ref": 26660
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9791,10 +9804,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32590
+      "$Ref": 32600
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9813,6 +9826,72 @@
     "Flavor": {
       "Key": 1213636014,
       "Value": "Made from a black, glassy rock that is often associated with cursed objects. "
+    },
+    "Rarity": "Common",
+    "ShowInJournal": true,
+    "IsDeprecated": false
+  },
+  {
+    "Name": "Javelin",
+    "Hint": "Schematic, Item, Relic",
+    "Slot": "relic",
+    "Audio": "event:/Items/Item_Land",
+    "Tags": [
+      {
+        "Value": "relic"
+      }
+    ],
+    "CostGroups": [
+      {
+        "Type": "Purchase",
+        "Costs": [
+          {
+            "MAmount": 475,
+            "MData": {
+              "$Ref": "f37bb5ec99a54feea3e9961c7111b50e"
+            }
+          }
+        ]
+      },
+      {
+        "Type": "Unlock",
+        "Costs": [
+          {
+            "MAmount": 35,
+            "MData": {
+              "$Ref": "9671be8026ea4c25808df74cbe54e107"
+            }
+          }
+        ]
+      }
+    ],
+    "MaxDropCount": 1,
+    "IsDefault": false,
+    "IsDefaultDiscovered": false,
+    "AutoUnlock": false,
+    "Rerollable": true,
+    "AllowOnAltar": true,
+    "PickedUpBehavior": {
+      "$Ref": 26678
+    },
+    "IsSpecialDrop": false,
+    "IsSpecialDiscovery": false,
+    "UserData": 0,
+    "DropRequirements": [],
+    "DiscoverRequirements": [],
+    "Guid": "2f9b6e005bf64057936c3101264f812e",
+    "Icon": {},
+    "DisplayName": {
+      "Key": -1017140501,
+      "Value": "Javelin"
+    },
+    "Description": {
+      "Key": -518535723,
+      "Value": "Damage of a thrown pickaxe increases as it travels further"
+    },
+    "Flavor": {
+      "Key": 863205811,
+      "Value": "A heart wrapped in steel plate shall be pierced at great distance. "
     },
     "Rarity": "Common",
     "ShowInJournal": true,
@@ -9848,7 +9927,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26766
+      "$Ref": 26782
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -9944,7 +10023,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32326
+      "$Ref": 32336
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -10132,7 +10211,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31984
+      "$Ref": 31994
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10194,7 +10273,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32264
+      "$Ref": 32274
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10261,7 +10340,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26382
+      "$Ref": 26398
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10312,7 +10391,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32238
+      "$Ref": 32248
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10454,7 +10533,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10718,7 +10797,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32038
+      "$Ref": 32048
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10773,7 +10852,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26790
+      "$Ref": 26806
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10839,7 +10918,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26574
+      "$Ref": 26590
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10916,10 +10995,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32624
+      "$Ref": 32634
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -10973,7 +11052,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26764
+      "$Ref": 26780
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11040,7 +11119,7 @@
     "Rerollable": true,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 26234
+      "$Ref": 26250
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11118,7 +11197,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26756
+      "$Ref": 26772
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -11287,10 +11366,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32584
+      "$Ref": 32594
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11415,7 +11494,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32406
+      "$Ref": 32416
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11474,7 +11553,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31966
+      "$Ref": 31976
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -11525,7 +11604,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32192
+      "$Ref": 32202
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11686,7 +11765,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32200
+      "$Ref": 32210
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11753,7 +11832,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32490
+      "$Ref": 32500
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -11818,7 +11897,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26650
+      "$Ref": 26666
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12070,7 +12149,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32220
+      "$Ref": 32230
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12137,7 +12216,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32482
+      "$Ref": 32492
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12222,7 +12301,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26648
+      "$Ref": 26664
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12541,10 +12620,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32696
+      "$Ref": 32706
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12661,7 +12740,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32398
+      "$Ref": 32408
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12739,7 +12818,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32048
+      "$Ref": 32058
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -12809,7 +12888,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32426
+      "$Ref": 32436
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13012,7 +13091,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26584
+      "$Ref": 26600
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13072,7 +13151,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32182
+      "$Ref": 32192
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13139,7 +13218,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32500
+      "$Ref": 32510
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13204,7 +13283,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26660
+      "$Ref": 26676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13281,10 +13360,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32732
+      "$Ref": 32742
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32734
+      "$Ref": 32744
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13470,7 +13549,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26366
+      "$Ref": 26382
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13547,10 +13626,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32686
+      "$Ref": 32696
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13678,7 +13757,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32700
+      "$Ref": 32710
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13732,7 +13811,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26342
+      "$Ref": 26358
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13795,7 +13874,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31956
+      "$Ref": 31966
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -13920,7 +13999,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32486
+      "$Ref": 32496
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -14156,7 +14235,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23940
+          "$Ref": 23956
         }
       ]
     },
@@ -14234,7 +14313,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26264
+      "$Ref": 26280
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -14398,10 +14477,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32644
+      "$Ref": 32654
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -14584,7 +14663,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26800
+      "$Ref": 26816
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -14738,7 +14817,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26608
+      "$Ref": 26624
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15246,7 +15325,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31996
+      "$Ref": 32006
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15309,7 +15388,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32438
+      "$Ref": 32448
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15520,7 +15599,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32494
+      "$Ref": 32504
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15646,7 +15725,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32302
+      "$Ref": 32312
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15712,7 +15791,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26628
+      "$Ref": 26644
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15767,7 +15846,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26292
+      "$Ref": 26308
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15834,7 +15913,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32422
+      "$Ref": 32432
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15907,10 +15986,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32600
+      "$Ref": 32610
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -15960,7 +16039,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32186
+      "$Ref": 32196
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16016,7 +16095,7 @@
     "Rerollable": true,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 26368
+      "$Ref": 26384
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16101,7 +16180,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26804
+      "$Ref": 26820
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16167,7 +16246,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32718
+      "$Ref": 32728
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16240,10 +16319,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32668
+      "$Ref": 32678
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32676
+      "$Ref": 32686
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16314,7 +16393,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32052
+      "$Ref": 32062
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16371,7 +16450,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32240
+      "$Ref": 32250
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16422,7 +16501,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32222
+      "$Ref": 32232
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16919,10 +16998,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32580
+      "$Ref": 32590
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -16988,7 +17067,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32516
+      "$Ref": 32526
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17053,7 +17132,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 44572
+      "$Ref": 44586
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17147,10 +17226,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32660
+      "$Ref": 32670
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17337,7 +17416,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31982
+      "$Ref": 31992
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17403,7 +17482,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26354
+      "$Ref": 26370
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17495,7 +17574,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32740
+      "$Ref": 32750
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17596,7 +17675,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26298
+      "$Ref": 26314
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17662,7 +17741,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26658
+      "$Ref": 26674
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -17691,6 +17770,9 @@
     "Name": "LootTableRelicLegendary",
     "RandStateType": "Legendary",
     "RerollHint": 0,
+    "DefaultLoot": {
+      "$Ref": "5445617cf5a24b678e1680f88ba4f134"
+    },
     "Loot": [
       {
         "Weight": 1,
@@ -17879,7 +17961,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32054
+      "$Ref": 32064
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -17945,7 +18027,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -18876,7 +18958,7 @@
       {
         "Weight": 9,
         "Item": {
-          "$Ref": "f73c5c34fd55409b8afe90e11e01e540"
+          "$Ref": "2f9b6e005bf64057936c3101264f812e"
         },
         "AdjustedWeight": 0
       },
@@ -18949,7 +19031,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26606
+      "$Ref": 26622
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19021,7 +19103,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26796
+      "$Ref": 26812
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19067,6 +19149,17 @@
             }
           }
         ]
+      },
+      {
+        "Type": "Alternate",
+        "Costs": [
+          {
+            "MAmount": 10,
+            "MData": {
+              "$Ref": "b496550ee6e8465082e3da155a8db856"
+            }
+          }
+        ]
       }
     ],
     "MaxDropCount": -1,
@@ -19076,7 +19169,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26680
+      "$Ref": 26696
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -19212,7 +19305,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31950
+      "$Ref": 31960
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19277,7 +19370,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26786
+      "$Ref": 26802
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -19408,7 +19501,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26634
+      "$Ref": 26650
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19468,7 +19561,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31936
+      "$Ref": 31946
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -19545,10 +19638,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32640
+      "$Ref": 32650
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19653,7 +19746,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26294
+      "$Ref": 26310
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19704,7 +19797,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32304
+      "$Ref": 32314
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19759,7 +19852,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26762
+      "$Ref": 26778
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19826,7 +19919,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32466
+      "$Ref": 32476
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -19968,7 +20061,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32508
+      "$Ref": 32518
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20044,10 +20137,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32654
+      "$Ref": 32664
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20115,12 +20208,32 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26360
+      "$Ref": 26376
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
     "UserData": 0,
-    "DropRequirements": [],
+    "DropRequirements": [
+      {
+        "Type": "Upgrade",
+        "Operation": "Or",
+        "Key": "whip_enabled",
+        "Value": 0.0,
+        "Comparison": "==",
+        "StringData": ""
+      },
+      {
+        "Type": "DropCount",
+        "Operation": "And",
+        "Key": "whip_enabled",
+        "Value": 0.0,
+        "Comparison": "==",
+        "StringData": "",
+        "EntityData": {
+          "$Ref": "5829b0cc3f6149da9649aa302cf7ca57"
+        }
+      }
+    ],
     "DiscoverRequirements": [],
     "Guid": "5829b0cc3f6149da9649aa302cf7ca57",
     "Icon": {},
@@ -20170,7 +20283,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32014
+      "$Ref": 32024
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -20281,7 +20394,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32474
+      "$Ref": 32484
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20346,7 +20459,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20396,7 +20509,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31926
+      "$Ref": 31936
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -20447,7 +20560,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32288
+      "$Ref": 32298
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20524,7 +20637,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26554
+      "$Ref": 26570
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20599,7 +20712,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26596
+      "$Ref": 26612
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20669,7 +20782,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27928
+      "$Ref": 27944
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20742,7 +20855,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32510
+      "$Ref": 32520
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20815,10 +20928,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32632
+      "$Ref": 32642
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20883,7 +20996,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32740
+      "$Ref": 32750
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -20970,7 +21083,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32470
+      "$Ref": 32480
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21020,7 +21133,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32212
+      "$Ref": 32222
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21081,7 +21194,7 @@
     "Rerollable": true,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 26236
+      "$Ref": 26252
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21151,7 +21264,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32354
+      "$Ref": 32364
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21221,7 +21334,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 45770
+      "$Ref": 45784
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21347,7 +21460,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26640
+      "$Ref": 26656
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21413,7 +21526,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27038
+      "$Ref": 27054
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21537,7 +21650,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32032
+      "$Ref": 32042
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -21665,7 +21778,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26256
+      "$Ref": 26272
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21726,7 +21839,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31974
+      "$Ref": 31984
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21789,7 +21902,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31964
+      "$Ref": 31974
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -21844,7 +21957,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26346
+      "$Ref": 26362
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21895,7 +22008,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32216
+      "$Ref": 32226
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -21961,7 +22074,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26534
+      "$Ref": 26550
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22027,7 +22140,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26654
+      "$Ref": 26670
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22144,7 +22257,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26636
+      "$Ref": 26652
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22206,7 +22319,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26742
+      "$Ref": 26758
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22390,7 +22503,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32476
+      "$Ref": 32486
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22506,7 +22619,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26548
+      "$Ref": 26564
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22573,7 +22686,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32402
+      "$Ref": 32412
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22636,7 +22749,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32298
+      "$Ref": 32308
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22768,7 +22881,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32706
+      "$Ref": 32716
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22830,7 +22943,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 29804
+      "$Ref": 29814
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22904,7 +23017,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26614
+      "$Ref": 26630
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -22980,7 +23093,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32498
+      "$Ref": 32508
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23045,7 +23158,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26570
+      "$Ref": 26586
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23117,7 +23230,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26626
+      "$Ref": 26642
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23168,7 +23281,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32330
+      "$Ref": 32340
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -23219,7 +23332,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32242
+      "$Ref": 32252
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23274,7 +23387,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26720
+      "$Ref": 26736
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23325,7 +23438,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32318
+      "$Ref": 32328
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -23391,7 +23504,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27040
+      "$Ref": 27056
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23521,7 +23634,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26512
+      "$Ref": 26528
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -23962,7 +24075,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26778
+      "$Ref": 26794
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24090,7 +24203,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26572
+      "$Ref": 26588
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24154,7 +24267,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26314
+      "$Ref": 26330
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24231,7 +24344,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26624
+      "$Ref": 26640
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24303,7 +24416,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26732
+      "$Ref": 26748
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24375,7 +24488,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26536
+      "$Ref": 26552
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24441,7 +24554,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24462,49 +24575,6 @@
       "Value": "Just a sack used for hauling potatoes."
     },
     "Rarity": "Common",
-    "ShowInJournal": true,
-    "IsDeprecated": false
-  },
-  {
-    "Name": "Bomb Item",
-    "Hint": "Bomb, Relic",
-    "Slot": "bomb",
-    "Audio": "event:/Items/Item_Land",
-    "Tags": [
-      {
-        "Value": "relic"
-      }
-    ],
-    "CostGroups": [],
-    "MaxDropCount": 1,
-    "IsDefault": true,
-    "IsDefaultDiscovered": false,
-    "AutoUnlock": false,
-    "Rerollable": true,
-    "AllowOnAltar": true,
-    "PickedUpBehavior": {
-      "$Ref": 93160
-    },
-    "IsSpecialDrop": false,
-    "IsSpecialDiscovery": false,
-    "UserData": 0,
-    "DropRequirements": [],
-    "DiscoverRequirements": [],
-    "Guid": "6c5907e1-b7ab-4e28-b989-b305ebb56112",
-    "Icon": {},
-    "DisplayName": {
-      "Key": 0,
-      "Value": "Custom Bomb"
-    },
-    "Description": {
-      "Key": 0,
-      "Value": "Why are bombs so convoluted"
-    },
-    "Flavor": {
-      "Key": 0,
-      "Value": ""
-    },
-    "Rarity": "Rare",
     "ShowInJournal": true,
     "IsDeprecated": false
   },
@@ -24560,10 +24630,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32690
+      "$Ref": 32700
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24639,7 +24709,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26560
+      "$Ref": 26576
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24715,7 +24785,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32394
+      "$Ref": 32404
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24782,7 +24852,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26802
+      "$Ref": 26818
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24833,7 +24903,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32262
+      "$Ref": 32272
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24888,7 +24958,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26376
+      "$Ref": 26392
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -24910,50 +24980,6 @@
       "Value": "Peasants would often use Doppelbock to sneak away for a quick nap with no one noticing their absence."
     },
     "Rarity": "Common",
-    "ShowInJournal": true,
-    "IsDeprecated": false
-  },
-  {
-    "Name": "Relic Item",
-    "Hint": "Item, Relic",
-    "Slot": "relic",
-    "Audio": "event:/Items/Item_Land",
-    "Tags": [
-      {
-        "Value": "relic"
-      }
-    ],
-    "CostGroups": [],
-    "MaxDropCount": 1,
-    "IsDefault": true,
-    "IsDefaultDiscovered": false,
-    "AutoUnlock": false,
-    "Rerollable": true,
-    "AllowOnAltar": true,
-    "PickedUpBehavior": {
-      "$Ref": 93180
-    },
-    "IsSpecialDrop": false,
-    "IsSpecialDiscovery": false,
-    "UserData": 0,
-    "DropRequirements": [],
-    "DiscoverRequirements": [],
-    "Guid": "6dbdecc7-5c2e-4aef-a20b-93b7a9f6212b",
-    "Icon": {},
-    "Portrait": {},
-    "DisplayName": {
-      "Key": 0,
-      "Value": "Example Item"
-    },
-    "Description": {
-      "Key": 0,
-      "Value": "This is my description!"
-    },
-    "Flavor": {
-      "Key": 0,
-      "Value": "Some flavor goes here"
-    },
-    "Rarity": "Rare",
     "ShowInJournal": true,
     "IsDeprecated": false
   },
@@ -24994,7 +25020,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32268
+      "$Ref": 32278
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -25049,7 +25075,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27926
+      "$Ref": 27942
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -25131,7 +25157,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31970
+      "$Ref": 31980
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -25289,7 +25315,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23944
+          "$Ref": 23960
         }
       ]
     },
@@ -25474,7 +25500,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26544
+      "$Ref": 26560
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -25548,10 +25574,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32664
+      "$Ref": 32674
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -25601,7 +25627,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32258
+      "$Ref": 32268
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -26413,7 +26439,7 @@
       {
         "Weight": 9,
         "Item": {
-          "$Ref": "f73c5c34fd55409b8afe90e11e01e540"
+          "$Ref": "2f9b6e005bf64057936c3101264f812e"
         },
         "AdjustedWeight": 0
       }
@@ -26461,7 +26487,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26520
+      "$Ref": 26536
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -26652,10 +26678,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32692
+      "$Ref": 32702
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -26796,10 +26822,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32694
+      "$Ref": 32704
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -26875,10 +26901,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32604
+      "$Ref": 32614
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -26943,7 +26969,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32716
+      "$Ref": 32726
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27008,7 +27034,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26576
+      "$Ref": 26592
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27063,7 +27089,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32020
+      "$Ref": 32030
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -27140,10 +27166,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32652
+      "$Ref": 32662
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27208,7 +27234,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26784
+      "$Ref": 26800
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -27428,7 +27454,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32184
+      "$Ref": 32194
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27651,7 +27677,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32718
+      "$Ref": 32728
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27722,7 +27748,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32028
+      "$Ref": 32038
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27833,7 +27859,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27042
+      "$Ref": 27058
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27884,7 +27910,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32320
+      "$Ref": 32330
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -27948,7 +27974,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26808
+      "$Ref": 26824
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -27976,10 +28002,10 @@
   {
     "Name": "RookFish",
     "DeathFlavor": [],
-    "Type": "TieUp, Disturb",
+    "Type": "Disturb",
     "Difficulty": 3.0,
-    "MaxPerEncounter": 7,
-    "CanBeSolo": true,
+    "MaxPerEncounter": 3,
+    "CanBeSolo": false,
     "Hp": 55,
     "Strength": {
       "Key": 0,
@@ -28081,7 +28107,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26600
+      "$Ref": 26616
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -28145,7 +28171,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26728
+      "$Ref": 26744
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -28349,7 +28375,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31992
+      "$Ref": 32002
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -28404,7 +28430,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26706
+      "$Ref": 26722
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -29259,7 +29285,7 @@
       {
         "Weight": 9,
         "Item": {
-          "$Ref": "f73c5c34fd55409b8afe90e11e01e540"
+          "$Ref": "2f9b6e005bf64057936c3101264f812e"
         },
         "AdjustedWeight": 0
       },
@@ -29276,46 +29302,9 @@
           "$Ref": "43637fecaef7443482c195c01ede0a32"
         },
         "AdjustedWeight": 0
-      },
-      {
-        "Weight": 1000,
-        "Item": {
-          "$Ref": "6dbdecc7-5c2e-4aef-a20b-93b7a9f6212b"
-        },
-        "AdjustedWeight": 0
-      },
-      {
-        "Weight": 1000,
-        "Item": {
-          "$Ref": "6c5907e1-b7ab-4e28-b989-b305ebb56112"
-        },
-        "AdjustedWeight": 0
       }
     ],
     "Guid": "7c684bd4688c473e9cae7ef869c5d5cc"
-  },
-  {
-    "Name": "Loot Table",
-    "Replace": false,
-    "Guid": "7c684bd4688c473e9cae7ef869c5d5cc",
-    "RandStateType": "Default",
-    "RerollHint": 0,
-    "Loot": [
-      {
-        "Weight": 1000,
-        "Item": {
-          "$Ref": "6dbdecc7-5c2e-4aef-a20b-93b7a9f6212b"
-        },
-        "AdjustedWeight": 0
-      },
-      {
-        "Weight": 1000,
-        "Item": {
-          "$Ref": "6c5907e1-b7ab-4e28-b989-b305ebb56112"
-        },
-        "AdjustedWeight": 0
-      }
-    ]
   },
   {
     "Name": "MagmaWormTail",
@@ -29404,7 +29393,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26340
+      "$Ref": 26356
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -29488,7 +29477,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32420
+      "$Ref": 32430
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -29549,7 +29538,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32250
+      "$Ref": 32260
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -29674,7 +29663,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26550
+      "$Ref": 26566
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -29767,7 +29756,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 22664
+      "$Ref": 22680
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": true,
@@ -29844,7 +29833,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26528
+      "$Ref": 26544
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -29982,7 +29971,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31980
+      "$Ref": 31990
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30060,7 +30049,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26524
+      "$Ref": 26540
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30133,7 +30122,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32480
+      "$Ref": 32490
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30183,7 +30172,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32244
+      "$Ref": 32254
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30238,7 +30227,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26718
+      "$Ref": 26734
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30293,7 +30282,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27930
+      "$Ref": 27946
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30426,7 +30415,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32446
+      "$Ref": 32456
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30491,7 +30480,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26620
+      "$Ref": 26636
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30620,7 +30609,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26682
+      "$Ref": 26698
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30686,7 +30675,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32030
+      "$Ref": 32040
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30741,7 +30730,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26284
+      "$Ref": 26300
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30808,7 +30797,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32408
+      "$Ref": 32418
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -30867,7 +30856,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32282
+      "$Ref": 32292
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31067,7 +31056,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26594
+      "$Ref": 26610
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31143,7 +31132,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32514
+      "$Ref": 32524
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31209,7 +31198,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32504
+      "$Ref": 32514
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31263,7 +31252,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26306
+      "$Ref": 26322
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31337,7 +31326,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32246
+      "$Ref": 32256
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31490,7 +31479,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32202
+      "$Ref": 32212
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31619,7 +31608,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26562
+      "$Ref": 26578
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31702,7 +31691,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26656
+      "$Ref": 26672
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31757,7 +31746,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26266
+      "$Ref": 26282
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31823,7 +31812,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26542
+      "$Ref": 26558
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31909,10 +31898,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32668
+      "$Ref": 32678
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32674
+      "$Ref": 32684
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -31964,9 +31953,9 @@
     "IsDefaultDiscovered": false,
     "AutoUnlock": false,
     "Rerollable": false,
-    "AllowOnAltar": true,
+    "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32042
+      "$Ref": 32052
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -32052,10 +32041,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32662
+      "$Ref": 32672
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32109,7 +32098,7 @@
     "Rerollable": true,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 27934
+      "$Ref": 27950
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32190,7 +32179,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32740
+      "$Ref": 32750
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32266,10 +32255,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32680
+      "$Ref": 32690
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32334,7 +32323,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26352
+      "$Ref": 26368
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32506,7 +32495,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 29806
+      "$Ref": 29816
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32581,7 +32570,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32484
+      "$Ref": 32494
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32643,7 +32632,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32750
+      "$Ref": 32760
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32706,7 +32695,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26812
+      "$Ref": 26828
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -32757,7 +32746,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31960
+      "$Ref": 31970
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -32836,7 +32825,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 20808
+      "$Ref": 20824
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33045,7 +33034,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32668
+      "$Ref": 32678
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33187,7 +33176,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32444
+      "$Ref": 32454
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33244,7 +33233,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32284
+      "$Ref": 32294
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33310,7 +33299,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26272
+      "$Ref": 26288
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33403,7 +33392,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32324
+      "$Ref": 32334
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -33466,7 +33455,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32704
+      "$Ref": 32714
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33642,7 +33631,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26704
+      "$Ref": 26720
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -33750,7 +33739,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32010
+      "$Ref": 32020
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -33966,10 +33955,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32586
+      "$Ref": 32596
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -34038,7 +34027,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31954
+      "$Ref": 31964
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -34253,7 +34242,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26744
+      "$Ref": 26760
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -34508,7 +34497,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26592
+      "$Ref": 26608
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -34579,7 +34568,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26686
+      "$Ref": 26702
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -34789,7 +34778,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 26642
+      "$Ref": 26658
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -34853,7 +34842,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26768
+      "$Ref": 26784
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35003,7 +34992,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26552
+      "$Ref": 26568
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35086,7 +35075,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26566
+      "$Ref": 26582
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35150,7 +35139,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26806
+      "$Ref": 26822
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35429,7 +35418,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31932
+      "$Ref": 31942
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -35495,7 +35484,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26348
+      "$Ref": 26364
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35562,7 +35551,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32346
+      "$Ref": 32356
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35694,7 +35683,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26532
+      "$Ref": 26548
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35768,10 +35757,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32742
+      "$Ref": 32752
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32748
+      "$Ref": 32758
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -35830,7 +35819,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31922
+      "$Ref": 31932
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -35890,7 +35879,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32230
+      "$Ref": 32240
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36092,7 +36081,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31986
+      "$Ref": 31996
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -36147,7 +36136,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27838
+      "$Ref": 27854
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36198,7 +36187,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32286
+      "$Ref": 32296
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36324,10 +36313,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32728
+      "$Ref": 32738
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32730
+      "$Ref": 32740
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36381,7 +36370,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26700
+      "$Ref": 26716
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36631,7 +36620,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32700
+      "$Ref": 32710
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36752,10 +36741,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32588
+      "$Ref": 32598
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36827,7 +36816,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26618
+      "$Ref": 26634
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -36993,7 +36982,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32006
+      "$Ref": 32016
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37059,7 +37048,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32716
+      "$Ref": 32726
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37135,10 +37124,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32610
+      "$Ref": 32620
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37203,7 +37192,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26332
+      "$Ref": 26348
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37291,7 +37280,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32400
+      "$Ref": 32410
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37358,7 +37347,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26814
+      "$Ref": 26830
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37409,7 +37398,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31924
+      "$Ref": 31934
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -37464,7 +37453,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26738
+      "$Ref": 26754
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37536,7 +37525,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 22658
+      "$Ref": 22674
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -37863,7 +37852,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32198
+      "$Ref": 32208
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37929,7 +37918,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26326
+      "$Ref": 26342
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -37993,7 +37982,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26288
+      "$Ref": 26304
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38044,7 +38033,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32190
+      "$Ref": 32200
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38099,7 +38088,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31994
+      "$Ref": 32004
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -38166,7 +38155,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32468
+      "$Ref": 32478
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38258,7 +38247,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31976
+      "$Ref": 31986
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38336,7 +38325,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26538
+      "$Ref": 26554
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38438,7 +38427,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32270
+      "$Ref": 32280
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38569,7 +38558,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27044
+      "$Ref": 27060
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38646,10 +38635,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32636
+      "$Ref": 32646
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38711,7 +38700,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 29808
+      "$Ref": 29818
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38835,7 +38824,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32512
+      "$Ref": 32522
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38908,10 +38897,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32698
+      "$Ref": 32708
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -38977,7 +38966,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32442
+      "$Ref": 32452
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39042,7 +39031,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26582
+      "$Ref": 26598
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39189,7 +39178,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31946
+      "$Ref": 31956
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -39240,7 +39229,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32322
+      "$Ref": 32332
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": true,
@@ -39317,10 +39306,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32668
+      "$Ref": 32678
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32672
+      "$Ref": 32682
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39385,7 +39374,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26546
+      "$Ref": 26562
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39459,7 +39448,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32700
+      "$Ref": 32710
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39509,7 +39498,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32196
+      "$Ref": 32206
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39828,7 +39817,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26564
+      "$Ref": 26580
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -39888,7 +39877,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31940
+      "$Ref": 31950
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -40091,7 +40080,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -40190,7 +40179,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26268
+      "$Ref": 26284
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -40245,7 +40234,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26252
+      "$Ref": 26268
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -40528,7 +40517,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32424
+      "$Ref": 32434
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -40682,7 +40671,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26726
+      "$Ref": 26742
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -40777,7 +40766,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31962
+      "$Ref": 31972
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -40843,7 +40832,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26632
+      "$Ref": 26648
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41006,10 +40995,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32606
+      "$Ref": 32616
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41070,7 +41059,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32272
+      "$Ref": 32282
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41128,7 +41117,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31920
+      "$Ref": 31930
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -41183,7 +41172,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26698
+      "$Ref": 26714
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41246,7 +41235,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32708
+      "$Ref": 32718
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41303,7 +41292,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23940
+          "$Ref": 23956
         }
       ]
     },
@@ -41366,7 +41355,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32224
+      "$Ref": 32234
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41417,7 +41406,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32308
+      "$Ref": 32318
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41472,7 +41461,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26694
+      "$Ref": 26710
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41539,7 +41528,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32404
+      "$Ref": 32414
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41593,7 +41582,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27830
+      "$Ref": 27846
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41730,7 +41719,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32056
+      "$Ref": 32066
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41870,7 +41859,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32462
+      "$Ref": 32472
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -41935,7 +41924,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26308
+      "$Ref": 26324
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -42001,7 +41990,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26328
+      "$Ref": 26344
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42118,7 +42107,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32050
+      "$Ref": 32060
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42313,7 +42302,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 46190
+      "$Ref": 46204
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42416,7 +42405,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32278
+      "$Ref": 32288
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42493,10 +42482,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32596
+      "$Ref": 32606
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42550,7 +42539,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32012
+      "$Ref": 32022
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -42683,7 +42672,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32296
+      "$Ref": 32306
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42738,7 +42727,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26250
+      "$Ref": 26266
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42825,7 +42814,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31934
+      "$Ref": 31944
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -42891,7 +42880,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 29802
+      "$Ref": 29812
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -42950,7 +42939,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32236
+      "$Ref": 32246
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43016,7 +43005,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26602
+      "$Ref": 26618
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43092,7 +43081,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32488
+      "$Ref": 32498
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43142,7 +43131,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32232
+      "$Ref": 32242
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43219,7 +43208,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26246
+      "$Ref": 26262
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43282,7 +43271,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32312
+      "$Ref": 32322
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -43359,7 +43348,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26556
+      "$Ref": 26572
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43441,7 +43430,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26370
+      "$Ref": 26386
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -43499,7 +43488,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26240
+      "$Ref": 26256
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43658,7 +43647,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32214
+      "$Ref": 32224
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43839,7 +43828,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32710
+      "$Ref": 32720
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43904,7 +43893,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26622
+      "$Ref": 26638
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -43976,7 +43965,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 31952
+      "$Ref": 31962
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44042,7 +44031,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32448
+      "$Ref": 32458
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44108,7 +44097,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32478
+      "$Ref": 32488
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44260,7 +44249,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32332
+      "$Ref": 32342
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -44315,7 +44304,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32000
+      "$Ref": 32010
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -44389,10 +44378,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32736
+      "$Ref": 32746
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32738
+      "$Ref": 32748
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44527,7 +44516,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 28918
+      "$Ref": 28928
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44585,7 +44574,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 20810
+      "$Ref": 20826
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44688,7 +44677,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23944
+          "$Ref": 23960
         }
       ]
     },
@@ -44835,10 +44824,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32620
+      "$Ref": 32630
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44914,10 +44903,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32622
+      "$Ref": 32632
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -44993,10 +44982,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32642
+      "$Ref": 32652
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45108,7 +45097,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26516
+      "$Ref": 26532
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45183,7 +45172,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26616
+      "$Ref": 26632
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45376,7 +45365,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32338
+      "$Ref": 32348
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -45442,7 +45431,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26540
+      "$Ref": 26556
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45499,7 +45488,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32294
+      "$Ref": 32304
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45572,7 +45561,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45637,7 +45626,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26774
+      "$Ref": 26790
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -45703,7 +45692,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26310
+      "$Ref": 26326
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -45844,7 +45833,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26350
+      "$Ref": 26366
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -46352,7 +46341,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32194
+      "$Ref": 32204
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -46514,7 +46503,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32290
+      "$Ref": 32300
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -46565,7 +46554,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32310
+      "$Ref": 32320
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -46616,7 +46605,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32248
+      "$Ref": 32258
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -46693,7 +46682,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26558
+      "$Ref": 26574
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -46838,10 +46827,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32614
+      "$Ref": 32624
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -46906,7 +46895,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26526
+      "$Ref": 26542
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47089,10 +47078,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32616
+      "$Ref": 32626
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47146,7 +47135,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26740
+      "$Ref": 26756
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47259,7 +47248,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26324
+      "$Ref": 26340
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47490,10 +47479,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32592
+      "$Ref": 32602
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47547,7 +47536,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26262
+      "$Ref": 26278
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47610,7 +47599,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32712
+      "$Ref": 32722
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47664,7 +47653,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27832
+      "$Ref": 27848
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47726,7 +47715,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32040
+      "$Ref": 32050
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -47792,7 +47781,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27046
+      "$Ref": 27062
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47856,7 +47845,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26730
+      "$Ref": 26746
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -47930,7 +47919,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32714
+      "$Ref": 32724
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48027,10 +48016,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32630
+      "$Ref": 32640
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48096,7 +48085,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32496
+      "$Ref": 32506
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48162,7 +48151,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32452
+      "$Ref": 32462
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48489,7 +48478,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26736
+      "$Ref": 26752
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48632,7 +48621,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32440
+      "$Ref": 32450
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48697,7 +48686,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26580
+      "$Ref": 26596
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48772,7 +48761,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26322
+      "$Ref": 26338
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -48856,7 +48845,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32034
+      "$Ref": 32044
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -48966,7 +48955,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31948
+      "$Ref": 31958
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -49043,7 +49032,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32714
+      "$Ref": 32724
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49119,10 +49108,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32720
+      "$Ref": 32730
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32722
+      "$Ref": 32732
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49176,7 +49165,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26276
+      "$Ref": 26292
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49243,7 +49232,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32492
+      "$Ref": 32502
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49355,7 +49344,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32036
+      "$Ref": 32046
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49473,7 +49462,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26378
+      "$Ref": 26394
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49533,7 +49522,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31958
+      "$Ref": 31968
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -49610,10 +49599,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32656
+      "$Ref": 32666
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49663,7 +49652,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32340
+      "$Ref": 32350
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -49740,10 +49729,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32612
+      "$Ref": 32622
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49797,7 +49786,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26270
+      "$Ref": 26286
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49861,7 +49850,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31972
+      "$Ref": 31982
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -49950,10 +49939,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32658
+      "$Ref": 32668
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -50238,7 +50227,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26630
+      "$Ref": 26646
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -50324,10 +50313,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32572
+      "$Ref": 32582
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -50523,7 +50512,7 @@
     "Rerollable": true,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 26238
+      "$Ref": 26254
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -50590,7 +50579,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26760
+      "$Ref": 26776
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -50663,7 +50652,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32412
+      "$Ref": 32422
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -50737,7 +50726,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26638
+      "$Ref": 26654
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51027,7 +51016,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32506
+      "$Ref": 32516
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51092,7 +51081,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32666
+      "$Ref": 32676
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51220,7 +51209,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32464
+      "$Ref": 32474
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51277,7 +51266,7 @@
       "LevelFormat": "",
       "Behaviors": [
         {
-          "$Ref": 23936
+          "$Ref": 23952
         }
       ]
     },
@@ -51399,7 +51388,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26242
+      "$Ref": 26258
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51742,7 +51731,7 @@
       {
         "Weight": 9,
         "Item": {
-          "$Ref": "f73c5c34fd55409b8afe90e11e01e540"
+          "$Ref": "2f9b6e005bf64057936c3101264f812e"
         },
         "AdjustedWeight": 0
       }
@@ -51790,7 +51779,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26518
+      "$Ref": 26534
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51847,7 +51836,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32228
+      "$Ref": 32238
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51909,14 +51898,14 @@
         ]
       }
     ],
-    "MaxDropCount": -1,
+    "MaxDropCount": 1,
     "IsDefault": true,
     "IsDefaultDiscovered": false,
     "AutoUnlock": false,
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 26372
+      "$Ref": 26388
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -51971,7 +51960,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26816
+      "$Ref": 26832
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52127,7 +52116,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32460
+      "$Ref": 32470
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52328,7 +52317,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26586
+      "$Ref": 26602
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52403,7 +52392,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26578
+      "$Ref": 26594
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52467,7 +52456,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26754
+      "$Ref": 26770
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52544,10 +52533,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32594
+      "$Ref": 32604
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52601,7 +52590,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26810
+      "$Ref": 26826
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52711,7 +52700,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27840
+      "$Ref": 27856
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52785,10 +52774,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32724
+      "$Ref": 32734
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32726
+      "$Ref": 32736
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52838,7 +52827,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32266
+      "$Ref": 32276
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -52913,7 +52902,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32342
+      "$Ref": 32352
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -52968,7 +52957,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26794
+      "$Ref": 26810
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53070,7 +53059,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26312
+      "$Ref": 26328
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53198,10 +53187,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32668
+      "$Ref": 32678
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32670
+      "$Ref": 32680
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53313,10 +53302,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32638
+      "$Ref": 32648
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53381,7 +53370,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26530
+      "$Ref": 26546
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53442,7 +53431,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27932
+      "$Ref": 27948
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53508,7 +53497,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26510
+      "$Ref": 26526
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53574,7 +53563,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26724
+      "$Ref": 26740
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -53692,7 +53681,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26750
+      "$Ref": 26766
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -53758,7 +53747,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26646
+      "$Ref": 26662
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53833,7 +53822,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32716
+      "$Ref": 32726
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53887,7 +53876,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26722
+      "$Ref": 26738
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -53964,10 +53953,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32650
+      "$Ref": 32660
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54083,7 +54072,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26362
+      "$Ref": 26378
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54170,7 +54159,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32430
+      "$Ref": 32440
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54335,7 +54324,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32432
+      "$Ref": 32442
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54389,7 +54378,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26696
+      "$Ref": 26712
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54466,10 +54455,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32678
+      "$Ref": 32688
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32682
+      "$Ref": 32692
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54534,7 +54523,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26334
+      "$Ref": 26350
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54628,10 +54617,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32742
+      "$Ref": 32752
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32746
+      "$Ref": 32756
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54690,7 +54679,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32206
+      "$Ref": 32216
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54838,7 +54827,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32502
+      "$Ref": 32512
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54907,7 +54896,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32428
+      "$Ref": 32438
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -54934,10 +54923,10 @@
   {
     "Name": "BishFish",
     "DeathFlavor": [],
-    "Type": "TieUp, Disturb",
+    "Type": "TieUp",
     "Difficulty": 3.0,
-    "MaxPerEncounter": 7,
-    "CanBeSolo": true,
+    "MaxPerEncounter": 3,
+    "CanBeSolo": false,
     "Hp": 55,
     "Strength": {
       "Key": 0,
@@ -55089,7 +55078,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32344
+      "$Ref": 32354
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -55191,7 +55180,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31942
+      "$Ref": 31952
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -55246,7 +55235,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26260
+      "$Ref": 26276
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -55325,7 +55314,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32046
+      "$Ref": 32056
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -55380,7 +55369,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26244
+      "$Ref": 26260
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -55516,7 +55505,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32026
+      "$Ref": 32036
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -55593,10 +55582,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32574
+      "$Ref": 32584
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -55653,7 +55642,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32352
+      "$Ref": 32362
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -55704,7 +55693,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32254
+      "$Ref": 32264
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -55980,7 +55969,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31990
+      "$Ref": 32000
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": true,
@@ -56046,7 +56035,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32002
+      "$Ref": 32012
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56121,7 +56110,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26770
+      "$Ref": 26786
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56207,10 +56196,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32602
+      "$Ref": 32612
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32626
+      "$Ref": 32636
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56229,72 +56218,6 @@
     "Flavor": {
       "Key": 2123133739,
       "Value": "In the theme of making armor from animals..."
-    },
-    "Rarity": "Common",
-    "ShowInJournal": true,
-    "IsDeprecated": false
-  },
-  {
-    "Name": "Impetus",
-    "Hint": "Schematic, Item, Relic",
-    "Slot": "relic",
-    "Audio": "event:/Items/Item_Land",
-    "Tags": [
-      {
-        "Value": "relic"
-      }
-    ],
-    "CostGroups": [
-      {
-        "Type": "Purchase",
-        "Costs": [
-          {
-            "MAmount": 475,
-            "MData": {
-              "$Ref": "f37bb5ec99a54feea3e9961c7111b50e"
-            }
-          }
-        ]
-      },
-      {
-        "Type": "Unlock",
-        "Costs": [
-          {
-            "MAmount": 35,
-            "MData": {
-              "$Ref": "9671be8026ea4c25808df74cbe54e107"
-            }
-          }
-        ]
-      }
-    ],
-    "MaxDropCount": 1,
-    "IsDefault": false,
-    "IsDefaultDiscovered": false,
-    "AutoUnlock": false,
-    "Rerollable": true,
-    "AllowOnAltar": true,
-    "PickedUpBehavior": {
-      "$Ref": 26662
-    },
-    "IsSpecialDrop": false,
-    "IsSpecialDiscovery": false,
-    "UserData": 0,
-    "DropRequirements": [],
-    "DiscoverRequirements": [],
-    "Guid": "f73c5c34fd55409b8afe90e11e01e540",
-    "Icon": {},
-    "DisplayName": {
-      "Key": -1017140501,
-      "Value": "Javelin"
-    },
-    "Description": {
-      "Key": -518535723,
-      "Value": "Damage of a thrown pickaxe increases as it travels further"
-    },
-    "Flavor": {
-      "Key": 863205811,
-      "Value": "A heart wrapped in steel plate shall be pierced at great distance. "
     },
     "Rarity": "Common",
     "ShowInJournal": true,
@@ -56401,7 +56324,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32016
+      "$Ref": 32026
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56456,7 +56379,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26338
+      "$Ref": 26354
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56511,7 +56434,7 @@
     "Rerollable": true,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 27938
+      "$Ref": 27954
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56592,7 +56515,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26286
+      "$Ref": 26302
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56823,7 +56746,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26588
+      "$Ref": 26604
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56899,7 +56822,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32434
+      "$Ref": 32444
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -56956,7 +56879,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32218
+      "$Ref": 32228
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57011,7 +56934,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 28916
+      "$Ref": 28926
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57088,10 +57011,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32742
+      "$Ref": 32752
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32744
+      "$Ref": 32754
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57226,7 +57149,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32456
+      "$Ref": 32466
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57276,7 +57199,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31944
+      "$Ref": 31954
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -57331,7 +57254,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32018
+      "$Ref": 32028
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -57386,7 +57309,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26296
+      "$Ref": 26312
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57453,7 +57376,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32436
+      "$Ref": 32446
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57529,10 +57452,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32634
+      "$Ref": 32644
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32648
+      "$Ref": 32658
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57608,10 +57531,10 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32570
+      "$Ref": 32580
     },
     "SecondaryPickedUpBehavior": {
-      "$Ref": 32598
+      "$Ref": 32608
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57661,7 +57584,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 31930
+      "$Ref": 31940
     },
     "IsSpecialDrop": true,
     "IsSpecialDiscovery": false,
@@ -57716,7 +57639,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26772
+      "$Ref": 26788
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57771,7 +57694,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 27940
+      "$Ref": 27956
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57903,7 +57826,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32418
+      "$Ref": 32428
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -57968,7 +57891,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26514
+      "$Ref": 26530
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58023,7 +57946,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26344
+      "$Ref": 26360
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58078,7 +58001,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26752
+      "$Ref": 26768
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58150,7 +58073,7 @@
     "Rerollable": true,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 26610
+      "$Ref": 26626
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58210,7 +58133,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32292
+      "$Ref": 32302
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58261,7 +58184,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32280
+      "$Ref": 32290
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58890,7 +58813,7 @@
     "Rerollable": false,
     "AllowOnAltar": true,
     "PickedUpBehavior": {
-      "$Ref": 32396
+      "$Ref": 32406
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
@@ -58953,7 +58876,7 @@
     "Rerollable": false,
     "AllowOnAltar": false,
     "PickedUpBehavior": {
-      "$Ref": 32300
+      "$Ref": 32310
     },
     "IsSpecialDrop": false,
     "IsSpecialDiscovery": false,
