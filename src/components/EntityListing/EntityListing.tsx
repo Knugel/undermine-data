@@ -19,7 +19,8 @@ function EntityListing() {
             <Form style={{ padding: 20 }}>
                 <Form.Control type="search" placeholder="Search..." value={search} onChange={onSearch}/>
             </Form>
-            <Table striped bordered hover>
+            <div className={"table-wrapper"}>
+                <Table striped bordered hover>
                 <thead>
                 <tr>
                     <th style={{ width: '40%' }}>Name</th>
@@ -46,6 +47,7 @@ function EntityListing() {
                 }
                 </tbody>
             </Table>
+            </div>
         </Fragment>
     );
 }

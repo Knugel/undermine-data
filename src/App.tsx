@@ -23,9 +23,12 @@ function App() {
                               <Nav.Link as={ NavLink } to="/data-objects">Data Objects</Nav.Link>
                           </Nav>
                       </Navbar.Collapse>
+                      <Navbar.Text>
+                          <span>Version: 1.2.0.169</span>
+                      </Navbar.Text>
                   </Navbar>
               </Container>
-              <Container style={{ padding: 10, paddingLeft: 'calc(100vw - 100%)' }}>
+              <Container className={"content-container"}>
                   <Switch>
                       <Route path='/entities' exact>
                           <EntityListing/>

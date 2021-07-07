@@ -12,3 +12,27 @@
     margin-top: 5px;
     color: #009670;
 }
+
+.navbar-text {
+    padding-right: 1rem;
+}
+
+.table-wrapper {
+    height: calc(100vh - 200px);
+    overflow-y: auto;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.content-container {
+    height: calc(100vh - 100px);
+    overflow-y: auto;
+    margin-top: 10px;
+}
+
+.content-container .tab-content {
+    height: 90%;
+    overflow-y: auto;
+}
