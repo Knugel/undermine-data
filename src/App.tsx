@@ -24,7 +24,7 @@ function App() {
                           </Nav>
                       </Navbar.Collapse>
                       <Navbar.Text>
-                          <span>Version: 1.2.0.169</span>
+                          <span>Version: 1.2.0.186</span>
                       </Navbar.Text>
                   </Navbar>
               </Container>
