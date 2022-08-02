@@ -1,11 +1,13 @@
 import { Behavior } from '../../interfaces';
 import ReactFlow, { Background, Elements, isNode, Position } from 'react-flow-renderer';
-import { fromTaskJSON, toFlowElement } from '../../helpers';
-import { Fragment, MouseEvent as ReactMouseEvent, useEffect, useState } from 'react';
+import { fromOffset, fromTaskJSON, toFlowElement } from '../../helpers';
+import { Fragment, MouseEvent as ReactMouseEvent, useEffect, useRef, useState } from 'react';
 import dagre from 'dagre';
-import { Col, Row } from 'react-bootstrap';
+import {  Col, Overlay, Row, Tooltip } from 'react-bootstrap';
 import { Edge, Node } from 'react-flow-renderer/dist/types';
 import Extension from '../Entity/Extensions/Extension';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faClipboard } from '@fortawesome/free-solid-svg-icons/faClipboard';
 
 type Props = {
     Instance: Behavior
@@ -17,6 +19,40 @@ function BehaviorTreeGraph(props: Props) {
 
     const [elements, setElements] = useState<Elements>([]);
     const [selected, setSelected] = useState<Node | null>();
+
+    const [show, setShow] = useState(false);
+    const target = useRef(null);
+    const copy = () => {
+        const tasks = fromTaskJSON(props.Instance.TaskJSON);
+
+        const setOffset = (element: any, task: any) => {
+
+            if(task.ID.toString() === element.id)
+            {
+                task.NodeData.Offset = `(${(element as any).position.x}, ${(element as any).position.y})`;
+                return;
+            }
+            for(const child of task.Children ?? []) {
+                if(child.ID.toString() === element.id)
+                {
+                    child.NodeData.Offset = `(${(element as any).position.x}, ${(element as any).position.y})`;
+                    return;
+                }
+                setOffset(element, child);
+            }
+        }
+
+        for(const element of elements) {
+            let task = tasks.RootTask;
+            let entry = tasks.EntryTask;
+            setOffset(element, task);
+            setOffset(element, entry);
+        }
+
+        navigator.clipboard.writeText(JSON.stringify(tasks));
+        setShow(true);
+        setTimeout(() => setShow(false), 2000);
+    };
 
     useEffect(() => {
         const dagreGraph = new dagre.graphlib.Graph();
@@ -79,21 +115,32 @@ function BehaviorTreeGraph(props: Props) {
     }
 
     return (
-        <Row style={{ height: '100%'}}>
-            <Col>
-                <ReactFlow elements={ elements } nodesDraggable={false} onElementClick={onNodeClick}>
-                    <Background/>
-                </ReactFlow>
-            </Col>
-            <Col xs lg={5} style={{ overflow: "hidden", overflowY: "auto", height: "100%", wordBreak: "break-all" }}>
-                {
-                    selected ?
-                        <Fragment>
-                            <Extension Instance={ selected as any }/>
-                        </Fragment> : null
-                }
-            </Col>
-        </Row>
+        <>
+            <div className="btn" style={{ position: 'absolute', zIndex: 10, marginLeft: '8px', marginTop: '8px', backdropFilter: 'blur(4px)', background: 'rgba(0, 0, 0, 0.4)' }} onClick={() => copy()} ref={target}><FontAwesomeIcon icon={faClipboard} /></div>
+            <Overlay target={target.current} show={show} placement="bottom">
+                {(props) => (
+                    <Tooltip id="overlay-example" {...props}>
+                        Copied to clipboard
+                    </Tooltip>
+                )}
+            </Overlay>
+            <Row style={{ height: '100%'}}>
+                <Col>
+                    <ReactFlow elements={ elements } nodesDraggable={false} onElementClick={onNodeClick}>
+                        <Background/>
+                    </ReactFlow>
+                </Col>
+                <Col xs lg={5} style={{ overflow: "hidden", overflowY: "auto", height: "100%", wordBreak: "break-all" }}>
+                    {
+                        selected ?
+                            <Fragment>
+                                <Extension Instance={ selected as any }/>
+                            </Fragment> : null
+                    }
+                </Col>
+            </Row>
+        </>
+
     );
 }
 
